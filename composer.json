@@ -2,8 +2,15 @@
 {
     "name": "xuxiaoming723/xiaomingworld",
     "require": {
-		"monolog/monolog": "1.2.*"
-    }
+		"xuxiaoming723/xiaominghello": "~2.0"
+    },
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xuxiaoming723/xiaominghello"
+        }
+    ]   
 
 
 }
