@@ -2,7 +2,7 @@
 {
     "name": "xuxiaoming723/xiaomingworld",
     "require": {
-		"xuxiaoming723/xiaominghello": "~2.0"
+		"xuxiaoming723/xiaominghello": "2.0.1"
     },
 
     "repositories": [
