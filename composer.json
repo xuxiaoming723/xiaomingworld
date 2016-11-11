@@ -1,4 +1,9 @@
 
 {
-    "name": "xuxiaoming723/xiaomingworld"
+    "name": "xuxiaoming723/xiaomingworld",
+    "require": {
+		"monolog/monolog": "1.2.*"
+    }
+
+
 }
