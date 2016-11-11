@@ -1,0 +1,14 @@
+
+{
+    "name": "xuxiaoming723/xiaomingworld"
+    "require": {
+		"xuxiaoming723/xiaominghello": "~2.0"
+    },
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/xuxiaoming723/xiaominghello"
+        }
+    ] 
+}
