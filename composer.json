@@ -1,6 +1,6 @@
 
 {
-    "name": "xuxiaoming723/xiaomingworld"
+    "name": "xuxiaoming723/xiaomingworld",
     "require": {
 		"xuxiaoming723/xiaominghello": "~2.0"
     },
